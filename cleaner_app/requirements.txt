@@ -1,0 +1,6 @@
+PyQt6
+psutil
+openai
+python-dotenv
+markdown
+pygments
